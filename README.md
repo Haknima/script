@@ -1,2 +1,2 @@
 # script
-some vps script
+some vps scripts
