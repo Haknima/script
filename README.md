@@ -1,7 +1,4 @@
 # script
-some vps scripts
-
-
 ruisu.sh : CentOS6和CentOS7一键更换内核
 
 appex.sh : CentOS6和CentOS7一键安装锐速
